@@ -390,7 +390,6 @@
 
 /* CONTENT 5 SECTION */
 
-/* BACKGROUND */
 .content5 {
   position: relative;
   height: 390px;
@@ -411,7 +410,6 @@
   z-index: -1;
 }
 
-/* TEXT  */
 .content5 .text {
   color: white;
   text-align: center;
@@ -420,7 +418,6 @@
   padding-top: 128px;
 }
 
-/* 2 LINE VECTOR */
 .content5 .vector1 {
   position: absolute;
   align-items: center;
@@ -435,7 +432,6 @@
   margin-left: 1056px;
 }
 
-/* BUTTON PROJECT */
 .content5 .btn1 {
   padding: 0.3em 1em;
   border-radius: 138.5px;
