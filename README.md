@@ -1,6 +1,4 @@
 # First-Website
-ADEMT - Website
-
 
 GROUP MEMBERS:
 Dexter De Luna,
